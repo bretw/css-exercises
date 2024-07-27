@@ -1,0 +1,16 @@
+p {
+    background-color: rgb(255, 153, 194);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+.imspecial {
+    font-size:24px;
+}
+#number2 {
+    font-size: 36px;
+    color: #0000ff
+}
+#number4 {
+    font-size: 24px;
+    font-weight: bold;
+    background-color: hsl(140, 100%, 80%);
+}
